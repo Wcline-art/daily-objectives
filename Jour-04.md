@@ -7,7 +7,7 @@
 * [x] Installation et configuration de Git
 * [x] Comprendre le versionning
 * [x] Comprendre le fonctionnement de Git
-  * [ ] Comprendre le staging de Git
+  * [x] Comprendre le staging de Git
   * [x] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
     * [x] git init
     * [x] git add
