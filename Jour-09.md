@@ -4,14 +4,14 @@
 
 
 * [ ] Javascript : 
-  * [ ] Savoir comment insérer du javascript dans du HTML de différentes manières (http://javascript.info/hello-world)
-  * [ ] Savoir comment sont structurés les documents javascript (http://javascript.info/structure)
-  * [ ] Comprendre le fonctionnement et l'utilité du `"use strict"` (http://javascript.info/strict-mode)
+  * [x] Savoir comment insérer du javascript dans du HTML de différentes manières (http://javascript.info/hello-world)
+  * [x] Savoir comment sont structurés les documents javascript (http://javascript.info/structure)
+  * [x] Comprendre le fonctionnement et l'utilité du `"use strict"` (http://javascript.info/strict-mode)
 
 
 * [ ] Algo : 
   * [ ] Comprendre l'utilité des algorithmes de tri
-  * [ ] Découvrir le tri par insertion (Insertion Sort)
+  * [x] Découvrir le tri par insertion (Insertion Sort)
 
 * [ ] Découvrir le CSS :
   * [ ] Comprendre la syntaxe de base
