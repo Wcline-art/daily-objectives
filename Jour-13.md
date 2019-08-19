@@ -2,7 +2,7 @@
 
 ## Mercredi 07/08/2019
 
-- [ ] Javascript :
+- [x] Javascript :
 
   - [x] Comprendre le fonctionnement des opérateurs en Javascript (https://javascript.info/operators#operator-precedence)
     - [x] Comprendre la différence entre unaire, binaire et opérande
@@ -11,12 +11,12 @@
     - [x] Comprendre le modulo
     - [x] Comprendre l'incrémentation, la différence entre préfix et postfix
 
-- [ ] Algo :
+- [x] Algo :
 
-  - [ ] Découvrir le tri fusion (Merge Sort)
+  - [x] Découvrir le tri fusion (Merge Sort)
 
 - [ ] CSS :
-  - [x] Comprendre le fonctionnement de Flexbox
+  - [ ] Comprendre le fonctionnement de Flexbox
     - [x] Faire le parcours Flexbox Froggy (https://flexboxfroggy.com/#fr)
   - [ ] Comprendre le fonctionnement de CSS Grid
-    - [ ] Faire le parcours Grid Garden (https://cssgridgarden.com/#fr)
+    - [x] Faire le parcours Grid Garden (https://cssgridgarden.com/#fr)
