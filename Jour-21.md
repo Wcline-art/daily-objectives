@@ -4,12 +4,12 @@
 
 - [ ] Javascript :
 
-  - [ ] Comprendre ce que sont les polyfills et leur utilité (https://javascript.info/polyfills)
-    - [ ] Comprendre la différence entre "transpilation" et "compilation"
-    - [ ] Comprendre l'utilité de Babel
+  - [x] Comprendre ce que sont les polyfills et leur utilité (https://javascript.info/polyfills)
+    - [x] Comprendre la différence entre "transpilation" et "compilation"
+    - [x] Comprendre l'utilité de Babel
   - [ ] Découvrir les Objets en JS (https://javascript.info/object)
-    - [ ] Comprendre le principe de clé/valeur
-    - [ ] Comprendre la différence entre un objet et une variable
+    - [x] Comprendre le principe de clé/valeur
+    - [x] Comprendre la différence entre un objet et une variable
     - [ ] Savoir itérer dans un objet
     - [ ] Comprendre la copie par référence
     - [ ] Savoir copier un objet (cloner)
