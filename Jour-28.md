@@ -18,5 +18,10 @@
 
   - [ ] Comprendre le `Bubbling` et le `Capturing` (https://javascript.info/bubbling-and-capturing)
 
+        bubbling : Quand un "event" est déclanché  par l'utilisateur (signal enclancher par une action utilisateur ex : click de souris sur un élément),  l'"handler" assigné à l'élément (fonction qui s'exécute en cas d'évènement) s'enclanche.
+        Le bubbling est l'action d'exécution du handler sur cet élement en cascade, cad d'abord il atteind l'élément, puis sont parent direct et enfin ces ancêtres. Comme la bulle remontant à la surface.
+
+        Capturing : c'est l'action inverse,
+
   - [ ] Comprendre la délégation d'évènements (https://javascript.info/event-delegation)
     - [ ] Faire les exercices
