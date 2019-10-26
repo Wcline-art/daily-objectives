@@ -38,6 +38,8 @@
 * [ ] Suppression de bases de données (https://youtu.be/IWkNbJhn2TM)
       suppression bdd : DROP DATABASE name;
 * [ ] Découvrir les rôles dans `PostgreSQL` (https://docs.postgresql.fr/12/user-manag.html)
+      Rôles : un utilisateur de la base de données ou un groupe d'utilisateurs de la base de données.
+      vérifier les rôles existants : SELECT rolname FROM pg_roles;
 
 ### Node.JS :
 
