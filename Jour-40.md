@@ -40,6 +40,7 @@
 - [ ] Savoir restaurer le schéma d'une base de donnée uniquement
 - [ ] Savoir retrouver une ou plusieurs tables d'une base de données
 - [ ] Installer `pgcli` (https://www.pgcli.com/) et refaire les manipulations précédentes avec
+      OSError: [Errno 13] Permission denied: '/home/wormceline/.config/pgcli'
 
 ### Node.JS :
 
